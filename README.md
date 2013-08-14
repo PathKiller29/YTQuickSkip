@@ -2,5 +2,5 @@ YTQuickSkip
 ===========
 
 No more waiting times to skip YouTube ads!
-![Alt text](/IMG_3236.PNG "Screenshot")
+![SCREENSHOT](https://raw.github.com/PathKiller29/YTQuickSkip/IMG_3236.PNG "Screenshot")
 
